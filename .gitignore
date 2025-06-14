@@ -1,2 +1,5 @@
 /venv
+/calculator
 .env
+tests.py
+/functions/__pycache__
