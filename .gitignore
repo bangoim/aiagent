@@ -3,3 +3,5 @@
 .env
 tests.py
 /functions/__pycache__
+__pycache__/
+.ropeproject/
